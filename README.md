@@ -1,2 +1,2 @@
 # opengles-ios
-Android OpenGL ES Examples
+iOS OpenGL ES Examples
